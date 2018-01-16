@@ -13,10 +13,6 @@ import { setTextFilter } from './actions/filters.js';
 import getVisibleExpenses from './selectors/expenses';
 
 
-
-
-
-
 const store = configureStore();
 
 // store.dispatch(addExpense({description: 'Water bill', amount: 4500}));
